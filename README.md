@@ -1,6 +1,6 @@
 # Welcome to Code Fun Run!
 
-Hi! Here we will do a **fun run**  of various coding problems. Enjoy the ride 🚆✈️
+Hi! Here we will be doing a **fun run**  of various coding problems. Enjoy the ride 🚆✈️
 
 
 ## Welcome to Code Fun Run!
