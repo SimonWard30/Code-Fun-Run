@@ -1,5 +1,5 @@
 public class Power_Of_Three {
-    public static void moveZeroes(int[] nums) {
+    private static void moveZeroes(int[] nums) {
         if (nums == null || nums.length == 0) {
             return;
         }
